@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "対象について",
+  "base_artist": "NEUN、佐藤乃子",
+  "createdAt": "2025-12-01T09:57:57.917426Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "対象について",
+      "artist": "NEUN & 佐藤乃子",
+      "has_synced": false,
+      "path": "select/pl_01_対象について_NEUN_&_佐藤乃子.txt"
+    }
+  ]
+}
